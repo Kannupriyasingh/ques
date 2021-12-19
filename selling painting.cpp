@@ -1,3 +1,4 @@
+//PhonePe Externship Assessment Questions
 /**********************************************************************************************************************************************
 Mr. Da Vinci is an artist who wants to make money. He has n paintings which he wishes to sell.
 The main issue is that he can only sell one painting every day. Due to a low demand of paintings, the price of every painting depreciates by 5 dollars each day. Obviously, the price cannot depreciate to a value below 0, in which case the price becomes stagnant at zero.
