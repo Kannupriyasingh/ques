@@ -32,6 +32,8 @@ On the next day, Mr. Da Vinci sells the painting at index 1 to earn a profit of 
 On the third day, Mr. Da Vinci earns no profit on selling the painting at index 0.
 ***************************************************************************************************************************************************************/
 
+//This solution is working for all Testcases
+
 #include <bits/stdc++.h>
 using namespace std;
 int sellingPaintings(int n, vector<int>&vec){
